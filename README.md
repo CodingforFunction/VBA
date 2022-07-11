@@ -24,6 +24,5 @@ Sub Kharid2()
     doc.getElementById("ContentPlaceHolder1_grd_Heads_lbl_PassedAmount_7").Value = doc.getElementById("ContentPlaceHolder1_grd_Heads_lbl_ClaimedAmount_7").innerText
     doc.getElementById("ContentPlaceHolder1_grd_Heads_lbl_PassedAmount_8").Value = doc.getElementById("ContentPlaceHolder1_grd_Heads_lbl_ClaimedAmount_8").innerText
     doc.getElementById("txt_Reason").Value = "PASSED"
-
 End Sub
 
